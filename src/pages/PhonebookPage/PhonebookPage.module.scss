@@ -1,0 +1,19 @@
+.phonebook {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactForm {
+    padding-bottom: 30px;
+    width: 100vw;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.623);
+}
+
+.contactsTitleLine {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+}

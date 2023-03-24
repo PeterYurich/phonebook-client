@@ -1,0 +1,25 @@
+.auth {
+    display: flex;
+    align-items: center;
+}
+
+.authLink {
+    text-decoration: none;
+    // :hover {
+    //     scale: 1.03; 
+    // }
+
+}
+
+.logedUser {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: large;
+    gap: 20px;
+    color: black;
+}
+
+.helloing {
+    margin-right: 10px;
+}
