@@ -1,6 +1,6 @@
 {
   "homepage": "https://peteryurich.github.io/phonebook-client",
-  "name": "my-phonebook",
+  "name": "phonebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
